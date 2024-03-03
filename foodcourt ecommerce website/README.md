@@ -1,5 +1,5 @@
 # Foodcourt - An eCommerce Website
-Foodcourtis a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Foodcourt is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
